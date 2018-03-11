@@ -123,10 +123,10 @@ outputChatBox("يجب كتبت ارقام وليس حروف",source,0,255,0,true
 end 
 end 
 )
-
+--[[
 addCommandHandler("del",
 function (player)
 executeSQLQuery("DROP TABLE `Bank`" )
 end
 )
-
+--]]
