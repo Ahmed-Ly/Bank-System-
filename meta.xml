@@ -1,0 +1,5 @@
+<meta>
+    <script src="c_ahmed.lua" type="client" />
+	<script src="s_ahmed.lua" type="server" />
+	<file src="font.ttf"/>
+</meta>
